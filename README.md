@@ -1,2 +1,2 @@
 # potion
-potion language support
+Vim plugin for potion language
